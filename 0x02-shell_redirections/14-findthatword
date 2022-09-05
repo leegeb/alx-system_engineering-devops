@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -h "root" 14-findthatword
+grep -f "root" 14-findthatword
